@@ -52,7 +52,7 @@ function Lets_talk() {
           </form>
         </div>
       </div>
-      <div>
+      <div className='image'>
         <img src={Profile} alt="not found" />
       </div>
     </div>
